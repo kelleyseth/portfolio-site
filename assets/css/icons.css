@@ -61,9 +61,9 @@
     mask-repeat: no-repeat;
     -webkit-mask-size: 100% 100%;
     mask-size: 100% 100%;
-  }
+}
 
-  .mdi--resume {
+.mdi--resume {
     display: inline-block;
     width: 3em;
     height: 3em;
@@ -75,4 +75,4 @@
     mask-repeat: no-repeat;
     -webkit-mask-size: 100% 100%;
     mask-size: 100% 100%;
-  }
+}
